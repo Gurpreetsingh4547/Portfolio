@@ -33,7 +33,7 @@ function Projects() {
               imgPath={sarthi}
               isBlog={false}
               title="Saarthi Seller"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="The Sarthi is a comprehensive B2B platform tailored for wholesale garment businesses. It simplifies the stocking process by enabling sellers to organize and manage their products by brand. The platform also facilitates seamless customer sales, creating an efficient bridge between wholesalers and retailers. With its user-friendly interface and advanced inventory features, The Handles Sarthi empowers businesses to streamline their operations and expand their reach in the garment industry."
               ghLink="https://github.com/codestellars/saarthi-customer-seller"
               demoLink="http://saarthi-seller.s3-website.ap-south-1.amazonaws.com/#/seller/dashboard"
             />
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={projectPeak}
               isBlog={false}
               title="Project Peak"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Project Peak is an intuitive project management tool designed to streamline workflows. Users can effortlessly create projects, update their statuses, and monitor progress through dynamic graphs. The platform offers detailed insights, including pending and completed tasks and timelines for project creation and completion. Additionally, Project Peak keeps users informed by showcasing their most recent projects, ensuring enhanced productivity and effective tracking."
               ghLink="https://github.com/Gurpreetsingh4547/projectpeak"
               demoLink="https://projectpeak-4.onrender.com/"              
             />
