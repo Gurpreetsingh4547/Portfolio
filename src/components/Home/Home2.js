@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               ✨ Coding isn’t just what I do; it’s how I create, solve, and grow every single day. 🌱🚀
               <br />
-              <br />I am fluent in languages like
+              <br />I am fluent in Languages, Library and Frameworks like
               <i>
                 <b className="purple"> JavaScript, React, Node.js, and Angular. </b>
               </i>
